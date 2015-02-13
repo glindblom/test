@@ -1,7 +1,7 @@
 $(document).on("ready", function() {
   // Use AJAX to get JSON
   $.ajax({
-    url: "menu-links.json",
+    url: "scripts/menu-links.json",
     dataType: "json",
     data: {},
     success: renderMenu,
