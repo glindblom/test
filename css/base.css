@@ -1,0 +1,29 @@
+body {
+  position: relative;
+  min-height: 100vh;
+  font-family: 'Open Sans', sans-serif;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 100px;
+  border: 1px groove white;
+  background-color: #726ffd;
+}
+
+main {
+  padding: 110px 25px 70px 25px;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 50px;
+  border-top: 1px solid black;
+  padding: 5px;
+}

@@ -1,0 +1,84 @@
+[
+  {
+    "mlid" : 1,
+    "title" : "Link 1",
+    "path" : "#",
+    "plid" : null,
+    "weight" : 0,
+    "children" : []
+  },
+  {
+    "mlid" : 2,
+    "title" : "Link 2",
+    "path" : "#",
+    "plid" : null,
+    "weight" : 0,
+    "children" : [
+      {
+        "mlid" : 5,
+        "title" : "Link 2.1",
+        "path" : "#",
+        "plid" : 2,
+        "weight" : 0,
+        "children" : []
+      },
+      {
+        "mlid" : 6,
+        "title" : "Link 2.2",
+        "path" : "#",
+        "plid" : 2,
+        "weight" : 0,
+        "children" : []
+      },
+      {
+        "mlid" : 7,
+        "title" : "Link 2.3",
+        "path" : "#",
+        "plid" : 2,
+        "weight" : 0,
+        "children" : []
+      }
+    ]
+  },
+  {
+    "mlid" : 3,
+    "title" : "Link 3",
+    "path" : "#",
+    "plid" : null,
+    "weight" : 0,
+    "children" : [
+      {
+        "mlid" : 8,
+        "title" : "Link 3.1",
+        "path" : "#",
+        "plid" : 3,
+        "weight" : 0,
+        "children" : []
+      },
+      {
+        "mlid" : 9,
+        "title" : "Link 3.2",
+        "path" : "#",
+        "plid" : 3,
+        "weight" : 0,
+        "children" : []
+      },
+      {
+        "mlid" : 10,
+        "title" : "Link 3.3",
+        "path" : "#",
+        "plid" : 3,
+        "weight" : 0,
+        "children" : []
+      }
+    ]
+  },
+  {
+    "mlid" : 4,
+    "title" : "Link 4",
+    "path" : "#",
+    "plid" : null,
+    "weight" : 0,
+    "children" : []
+  }
+]

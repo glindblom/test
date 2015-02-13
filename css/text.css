@@ -1,0 +1,19 @@
+h2 {
+  font-size: 26px;
+  margin-bottom: 20px;
+}
+
+p {
+  margin: 0 10px 12px 10px;
+  text-align: justify;
+}
+
+p.footer-information {
+  font-size: 10px;
+  font-style: italic;
+  margin: 0px;
+}
+
+p:before {
+  content: "\00a0\00a0\00a0"
+}
